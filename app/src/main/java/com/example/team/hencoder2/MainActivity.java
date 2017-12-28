@@ -11,5 +11,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.e("===","心塞");
+        Log.e("===","心塞");
+        Log.e("===","心塞");
+        Log.e("===","心塞");
+        Log.e("===","心塞");
+        Log.e("===","心塞");
+
+
     }
 }
